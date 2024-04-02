@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Peacefuldude
 - 👀 I’m interested in Peace
-- 🌱 I’m currently Doing React and Wanna learn React Native
+- 🌱 I started with React and continued with next.
 
 <!---
 Peacefuldude/Peacefuldude is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
